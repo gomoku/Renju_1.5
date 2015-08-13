@@ -1,3 +1,7 @@
-A Caro (Gomoku) game in Javascript by tubachkhoa2004. 07-03-2008, 09:58.
+Very goodlooking graphics and challenging AI is what youâll get playing this version of Renju. Renju is built around PureMVC framework a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern. You may think this game â with fancy graphics, advanced AI and framework programming â should be protected, encrypted and whatever, butâŚ ActionScript Notes owner released the source codeâŚ a priceless gift for us programmers. Download this AS3 pearl and give the author some feedback, and donât forget to visit ActionScript Notes where you will find, among other interesting things, a Flash Mac Style Flash Menu with full source code. Great job! by Emanuele Feronato March 25, 2008
 
-Original website: http://www.ddth.com/archive/index.php/t-6080.html
+Original website: http://www.emanueleferonato.com/2008/03/25/full-renju-game-with-source-code/
+
+![Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.](Renju_1.5.png "Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.")
+
+Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.
