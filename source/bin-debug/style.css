@@ -1,0 +1,16 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: #333333;
+}
+
+#container
+{
+	width: 520px;
+	height: 630px;
+	margin: 0 auto;
+	margin-top: 20px;
+	border: 1px solid #8F8F8F;
+	background: url(loading.gif) no-repeat;
+}

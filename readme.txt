@@ -1,0 +1,2 @@
+api's folder contains api's used in this project. Include them in your Flash CS3 build path.
+Package application.view.components.* contains classes for each symbol in library. There is no need in most of them unless you're using FlexBuilder to write code. I've added them so that FB3 whouldn't produce errors.
